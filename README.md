@@ -1,11 +1,12 @@
 ### Hi there 👋
 
-I'm interested in all language and tech.
-I hope to make my own solution.
+I'm interested in all language and tech. 
+I hope to make my own solution. 
 Standing on Ted is my dream.
 
 
 🏞 my blog : https://cholol.tistory.com
+
 🧑‍💻 my youtube : https://www.youtube.com/channel/UCUe5vJxFkS2Cel78mdTgpYQ
 
 
