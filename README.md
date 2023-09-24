@@ -6,6 +6,8 @@ I hope to make my own solution.
 
 Standing on Ted is my dream.
 
+And now, I'm working at DUNAMU, Upbit Back-end Developer. 🧑‍💻
+
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://cholol.tistory.com/) 
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/c/mychew__)
