@@ -13,7 +13,9 @@ And now, I'm working at DUNAMU, Upbit Back-end Developer. 🧑‍💻
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/c/mychew__)
 
 
-[![moonpower's github stats](https://github-readme-stats.vercel.app/api?username=tkdlek11112)](https://github.com/tkdlek11112/github-readme-stats)
+[![moonpower's github stats](https://github-readme-stats.vercel.app/api?username=tkdlek11112&show_icons=true&theme=radical)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=tkdlek11112&theme=react-dark)
 
 <!--
 **tkdlek11112/tkdlek11112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
