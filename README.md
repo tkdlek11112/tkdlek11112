@@ -13,7 +13,7 @@ And now, I'm working at DUNAMU, Upbit Back-end Developer. 🧑‍💻
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/c/mychew__)
 
 
-[![moonpower's github stats](https://github-readme-stats.vercel.app/api?username=tkdlek11112&show_icons=true&theme=radical)
+![moonpower's github stats](https://github-readme-stats.vercel.app/api?username=tkdlek11112&show_icons=true&theme=radical)
 
 
 <!--
